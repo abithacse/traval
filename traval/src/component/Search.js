@@ -9,9 +9,9 @@ function Search() {
     <div className='container'>
       <div className='left'>
         <h2>LUXURY INCLUDED VACATION FOR TWO PEOPLE</h2>
-        <p> <h1 className='tn' style={{color:'red'}} >TAMILNADU</h1>!!!!!!!!!!!!!!!!!! <br/>
-          we are goging to explore the tourst placess of tamilndu .tamilnadu is a best tourist plac in india .and most importendly tamilnadu had a more comers from frogners.
-          there are more plcese had the historical movemnt like king and wars,and we are going to explore the best placess
+        <p> <h1 className='tn' style={{color:'red'}}> TAMILNADU!!!!!!!! </h1> !!!!!!!!!!!!!!!!!! <br/>
+          we are goging to explore the tourist placess of tamilndu .tamilnadu is a best tourist place in india and most importantly tamilnadu had a more comers from frogners.
+          there are more place had the historical movemnt like king and wars,and we are going to explore the best placess
           <br />first we are going to know a chennai
           
           <h5 className='tn1' style={{color:'red'}} >CHENNAI</h5>
