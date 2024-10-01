@@ -1,0 +1,38 @@
+.selects img {
+    height: 100%;
+    width: 100%;
+    width: 400px;
+}
+.selects-img {
+    position: relative;
+}
+.selects-img .overlay {
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    background: rgba(0,0,0,0.3);
+}
+.selects-img .overlay p {
+    position: absolute;
+    bottom: 1rem;
+    left: 1rem;
+    color: #fff;
+    font-size: 2rem;
+    font-weight: 500;
+
+}
+
+
+
+
+@media  screen and (max-width:940px) {
+    .selects img {
+        height: 100%;
+        width: 70%;
+        width: 450px;
+    } 
+    
+      
+}
