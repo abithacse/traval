@@ -12,15 +12,15 @@ function ImgCarousel() {
    <Carousel className='carousel' showArrows={true} autoPlay={true} infiniteLoop={true}>
     <div>
     <img src={kumari} alt="" />
-        <p className="legend">kumari</p>
+        <p className="legend">KANYAKUMAI</p>
     </div>
     <div>  
     <img src={madhurai} alt="" />
-        <p className="legend">madhurai</p>
+        <p className="legend">MADHURAI</p>
     </div>
     <div>
     <img src={maha} alt="" />
-        <p className="legend">maha</p>
+        <p className="legend">MAHAPALIPURAM</p>
     </div>
 </Carousel>
 </div>

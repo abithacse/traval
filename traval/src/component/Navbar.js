@@ -15,8 +15,8 @@ function Navbar() {
   return (
     <div name='home' className={nav ? 'navbar navbar-bg' : 'navbar'}>
        <div className={nav ? 'logo dark' : 'logo'}>
-            <h2>BEACHES</h2>
-        </div> 
+            <h2>TN TOURIST PLACES</h2>
+        </div>
         <ul className='nav-menu'>
             <Link to='home' smooth={true} duration={500}><li>Home</li></Link>
             <Link to='destynation' smooth={true} duration={500}><li>Destination</li></Link>

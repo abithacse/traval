@@ -13,7 +13,7 @@ function Destynation() {
   <div name='destynation' className="destination">
     <div className="container">
       <h1>All-Inclusive Resorts</h1>
-      <p>On the Caribbean's Best Beaches</p>
+      <p>Best Tamilnadu tourist places</p>
       <div className="img-container">
         <img className='span-3 image-grid-row-2' src={img1} alt="" />
         <img src={img2} alt="" />
